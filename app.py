@@ -19,8 +19,8 @@ def read_json(input_json_path):
 
 # 设置固定的CSV文件和图片路径
 csv_path = r"result_hpto1.1_hpto1.3_cogvlm2.csv"
-rating_path = r".\result_hpto1.1_hpto1.2_cogvlm2.csv"
-images_path = ".\images"
+rating_path = r"result_hpto1.1_hpto1.2_cogvlm2.csv"
+images_path = "images"
 
 # 初始化页面配置
 st.set_page_config(page_title='HPT Evaluation System', layout='wide')

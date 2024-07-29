@@ -1,0 +1,147 @@
+id,image_name,question,task,difficulty,question_type,hpto1_1_rating,cogvlm2_rating,glm4v_rating
+1,yanlin_chart_1.jpg,what does the image mean,chart,medium,subjective,4.0,4.0,5.0
+2,yanlin_chart_2.jpg,Are there any data points exceeding the upper or lower limits?,chart,easy,subjective,2.0,2.0,1.0
+3,yanlin_chart_2.jpg,What is the average for all subgroups?,chart,easy,subjective,1.0,2.0,2.0
+4,yanlin_chart_3.png,What is the total sales amount in the United States over the four years combined?,chart,difficult,subjective,3.0,2.0,1.0
+5,yanlin_chart_3.png,Which country had the highest sales in 2021?,chart,easy,subjective,5.0,2.0,1.0
+6,yanlin_chart_3.png,Does the United States always have the highest sales volume?,chart,medium,subjective,1.0,5.0,1.0
+7,yanlin_chart_3.png,Does Canada always have the lowest sales volume over the years?,chart,medium,subjective,5.0,1.0,2.0
+8,yanlin_chart_3.png,What is the trend in sales volume for Mexico?,chart,medium,subjective,5.0,1.0,2.0
+9,yanlin_chart_4.png,Provide a title for this image.,chart,difficult,subjective,5.0,4.0,1.0
+10,yanlin_chart_4.png,Analyze this pie chart and extract the key information.,chart,difficult,subjective,2.0,2.0,2.0
+11,yanlin_chart_4.png,Which ethnic group has the largest proportion?,chart,easy,subjective,5.0,5.0,2.0
+12,yanlin_chart_4.png,Which ethnic group has the smallest proportion?,chart,easy,subjective,2.0,5.0,1.0
+13,yanlin_chart_4.png,Which two ethnic groups have similar proportions?,chart,easy,subjective,2.0,5.0,1.0
+14,yanlin_chart_5.png,Summarize this pie chart.,chart,difficult,subjective,4.0,4.0,3.0
+15,xzx_chart_1.png,In approximately which round is the score the lowest?,chart,medium,subjective,5.0,5.0,1.0
+16,xzx_chart_1.png,Which color has the highest score?,chart,easy,subjective,2.0,5.0,1.0
+17,xzx_chart_1.png,Which color has the lowest score?,chart,easy,subjective,5.0,5.0,1.0
+18,xzx_chart_2.png,Which γ1 has the highest score?,chart,medium,subjective,1.0,2.0,5.0
+19,xzx_chart_2.png,Which γ1 has the lowestscore?,chart,medium,subjective,5.0,5.0,4.0
+20,xzx_chart_3.png,Which month has the lowest temperature?,chart,difficult,subjective,2.0,5.0,1.0
+21,xzx_chart_3.png,Which month has the highest temperature?,chart,difficult,subjective,5.0,4.0,3.0
+22,xzx_chart_3.png,Which month has the lowest rainfall?,chart,difficult,subjective,5.0,4.0,1.0
+23,xzx_chart_3.png,Which month has the highest rainfall?,chart,difficult,subjective,5.0,5.0,4.0
+24,xzx_chart_4.png,Which month has the lowest temperature?,chart,medium,subjective,5.0,4.0,1.0
+25,xzx_chart_4.png,Which month has the highest temperature?,chart,medium,subjective,5.0,5.0,2.0
+26,xzx_chart_5.png,Which color has the highest score?,chart,easy,subjective,5.0,5.0,1.0
+27,xzx_chart_5.png,Which color has the lowest score?,chart,easy,subjective,5.0,4.0,1.0
+28,xzx_chart_6.png,Which country has the most population?,chart,easy,subjective,5.0,5.0,1.0
+29,xzx_chart_7.png,Is this stock going up?,chart,easy,subjective,2.0,4.0,3.0
+30,yanlin_ocr_1.jpg,Extract the text in the image,ocr,easy,subjective,5.0,4.0,5.0
+31,yanlin_ocr_2.png,Extract the text in the image,ocr,easy,subjective,1.0,5.0,1.0
+32,yanlin_ocr_3.jpg,Extract the text in the image,ocr,medium,subjective,4.0,1.0,5.0
+33,yanlin_ocr_3.jpg,What is the main argument presented in the editorial about cell phones in schools?,ocr,difficult,subjective,1.0,5.0,4.0
+34,yanlin_ocr_3.jpg,"According to the article, why do schools have strict rules about cell phone usage?",ocr,difficult,subjective,1.0,5.0,3.0
+35,yanlin_ocr_3.jpg,What example is given about a student taking a case to the Supreme Court?,ocr,difficult,subjective,1.0,5.0,4.0
+36,yanlin_ocr_3.jpg,What are the reasons provided by students for needing cell phones in school?,ocr,difficult,subjective,3.0,5.0,3.0
+37,yanlin_ocr_4.jpg,Extract the text in the image,ocr,easy,subjective,5.0,5.0,3.0
+38,yanlin_ocr_5.jpg,Extract the text in the image,ocr,medium,subjective,3.0,4.0,1.0
+39,yanlin_ocr_5.jpg,what is the date of the bill,ocr,difficult,subjective,5.0,5.0,1.0
+40,yanlin_ocr_5.jpg,what is total amount,ocr,difficult,subjective,2.0,2.0,1.0
+41,yanlin_ocr_6.jpg,Extract the text in the image,ocr,medium,subjective,2.0,5.0,4.0
+42,yanlin_ocr_6.jpg,Which direction should I go to get to the park?,ocr,difficult,subjective,3.0,3.0,2.0
+43,yanlin_ocr_7.jpg,Extract the text in the image,ocr,medium,subjective,2.0,5.0,5.0
+44,xzx_ocr_1.png,Extract the text in the image,ocr,medium,subjective,3.0,5.0,2.0
+45,xzx_ocr_1.png,What is the GST amount?,ocr,difficult,subjective,5.0,5.0,2.0
+46,xzx_ocr_1.png,What is the grand total?,ocr,difficult,subjective,5.0,5.0,4.0
+47,xzx_ocr_2.jpg,Extract the text in the image,ocr,medium,subjective,4.0,5.0,5.0
+48,xzx_ocr_2.jpg,Which station has the largest station number?,ocr,difficult,subjective,1.0,5.0,3.0
+49,xzx_ocr_2.jpg,Which station has the smallest station number?,ocr,difficult,subjective,1.0,5.0,1.0
+50,xzx_ocr_3.jpg,Which LRT station is it in the photo?,ocr,easy,subjective,5.0,5.0,2.0
+51,xzx_ocr_4.jpg,Extract the text in the image,ocr,medium,subjective,3.0,5.0,5.0
+52,xzx_ocr_4.jpg,What is the destination of the train at Platform A?,ocr,difficult,subjective,3.0,5.0,1.0
+53,xzx_ocr_5.png,What is the verbal score of this person?,ocr,medium,subjective,5.0,5.0,2.0
+54,xzx_ocr_5.png,What is the quantitative score of this person?,ocr,medium,subjective,5.0,5.0,2.0
+55,xzx_ocr_5.png,What is the test name of this report?,ocr,difficult,subjective,5.0,2.0,1.0
+56,xzx_ocr_6.png,Extract the text in the image,ocr,medium,subjective,5.0,5.0,5.0
+57,xzx_ocr_7.png,Extract the text in the image,ocr,medium,subjective,5.0,5.0,5.0
+58,pc_ocr_1.png,Extract the text in the image,ocr,easy,subjective,5.0,5.0,1.0
+59,yanlin_cap_1.jpg,what are they doing,cap,medium,subjective,3.0,4.0,3.0
+60,yanlin_cap_2.jpg,describe the piicture,cap,medium,subjective,4.0,5.0,3.0
+61,yanlin_cap_3.jpg,what is in the picture,cap,medium,subjective,4.0,5.0,2.0
+62,yanlin_cap_4.jpg,what is it,cap,medium,subjective,5.0,4.0,1.0
+63,xzx_cap_1.png,Describe the photo,cap,medium,subjective,4.0,4.0,1.0
+64,xzx_cap_2.png,What is this person doing?,cap,medium,subjective,2.0,5.0,3.0
+65,xzx_cap_3.jpg,Describe the photo,cap,medium,subjective,5.0,5.0,5.0
+66,xzx_cap_5.png,Describe the photo,cap,medium,subjective,2.0,5.0,2.0
+67,pc_cap_1.png,List all the items in this figrue,cap,easy,subjective,4.0,5.0,2.0
+68,pc_cap_2.png,What's the doctor's name in this bill?,cap,easy,subjective,5.0,5.0,1.0
+69,pc_cap_3.png,What is the hopital of this examination?,cap,easy,subjective,5.0,5.0,3.0
+70,pc_cap_4.png,What are the men in the picture doing?,cap,easy,subjective,3.0,5.0,2.0
+71,pc_cap_5.png,describe the image,cap,medium,subjective,5.0,5.0,2.0
+72,pc_cap_6.png,Extract information and determine what type of image this is most likely to be,cap,difficult,subjective,4.0,5.0,4.0
+73,pc_cap_7.png,Describe the workflow ,cap,difficult,subjective,4.0,4.0,3.0
+74,pc_cap_8.png,What probably is the man doing in the image?,cap,medium,subjective,5.0,5.0,1.0
+75,pc_cap_9.png,describe the image,cap,easy,subjective,4.0,5.0,3.0
+76,pc_cap_10.png,Can you describe the image and tell what's the joke of this?,cap,difficult,subjective,2.0,2.0,1.0
+77,pc_cap_11.png,describe the image,cap,easy,subjective,4.0,4.0,3.0
+78,pc_cap_12.png,describe the image,cap,easy,subjective,5.0,5.0,5.0
+79,pc_cap_13.png,What recipes are included in this noddle?,cap,medium,subjective,2.0,4.0,3.0
+80,pc_cap_14.png,describe the image,cap,medium,subjective,4.0,5.0,5.0
+81,pc_cap_15.png,describe the image,cap,medium,subjective,4.0,4.0,4.0
+82,pc_cap_16.png,describe the image,cap,medium,subjective,3.0,3.0,2.0
+83,pc_cap_17.png,describe the image,cap,difficult,subjective,3.0,5.0,4.0
+84,pc_cap_18.png,describe the image,cap,easy,subjective,3.0,4.0,4.0
+85,pc_cap_19.png,describe the image,cap,medium,subjective,3.0,5.0,4.0
+86,pc_cap_20.png,describe the image,cap,medium,subjective,5.0,4.0,4.0
+87,yanlin_VU_1.jpg,How many people are on the track?,vu,easy,subjective,2.0,5.0,1.0
+88,yanlin_VU_1.jpg,In which row of the runner would probably win the race?,vu,difficult,subjective,2.0,2.0,2.0
+89,yanlin_vu_2.jpg,spot three differences,vu,difficult,subjective,2.0,2.0,2.0
+90,yanlin_vu_3.jpg,How many geese are in the picture?,vu,easy,subjective,2.0,2.0,2.0
+91,yanlin_vu_3.jpg,How many goslings are there?,vu,medium,subjective,2.0,5.0,1.0
+92,yanlin_vu_4.jpg,What is special about this tree?,vu,medium,subjective,5.0,5.0,2.0
+93,yanlin_vu_5.png,How many circles and how many squares are there?,vu,medium,subjective,2.0,2.0,1.0
+94,yanlin_vu_5.png,how many colors are there in the image,vu,medium,subjective,1.0,1.0,1.0
+95,yanlin_vu_5.png,What behavior is being simulated in this picture?,vu,difficult,subjective,2.0,2.0,2.0
+96,yanlin_vu_6.png,How many circles are there?,vu,easy,subjective,2.0,2.0,1.0
+97,yanlin_vu_6.png,How many red circles and blue circles are there?,vu,medium,subjective,1.0,1.0,1.0
+98,yanlin_vu_7.png,What are these?,vu,difficult,subjective,2.0,4.0,4.0
+99,yanlin_vu_7.png,What is special about these expressions?,vu,difficult,subjective,2.0,4.0,4.0
+100,yanlin_vu_7.png,"What is the meaning of the expression in the third row, second column?",vu,difficult,subjective,3.0,5.0,1.0
+101,xzx_vu_1.png,How many circles are there in the image?,vu,easy,subjective,5.0,5.0,2.0
+102,xzx_vu_1.png,What color is the biggest circle in the image?,vu,medium,subjective,5.0,5.0,2.0
+103,xzx_vu_1.png,What color is the smallest circle in the image?,vu,medium,subjective,5.0,5.0,4.0
+104,xzx_vu_2.jpg,How many different shapes are there in the image?,vu,easy,subjective,5.0,5.0,5.0
+105,xzx_vu_2.jpg,Which shape is in blue color?,vu,medium,subjective,5.0,5.0,3.0
+106,xzx_vu_2.jpg,Which color is the triangle?,vu,medium,subjective,5.0,5.0,3.0
+107,xzx_vu_3.png,How may numbers are there in the image?,vu,easy,subjective,2.0,2.0,2.0
+108,xzx_vu_3.png,How many numbers are marked in blue in the image?,vu,easy,subjective,5.0,5.0,2.0
+109,xzx_vu_3.png,What is the biggest number in the image?,vu,easy,subjective,5.0,5.0,1.0
+110,xzx_vu_4.png,How many apples are there in the image?,vu,medium,subjective,2.0,2.0,1.0
+111,xzx_vu_5.jpg,How many balls are there in the image?,vu,medium,subjective,2.0,2.0,2.0
+112,xzx_vu_5.jpg,Which color is the most numerous in the image?,vu,easy,subjective,5.0,5.0,4.0
+113,xzx_vu_6.png,What is unusual about this image?,vu,medium,subjective,5.0,5.0,2.0
+114,xzx_vu_7.jpg,What is unusual about this image?,vu,difficult,subjective,4.0,5.0,1.0
+115,xzx_vu_7.jpg,How many colors of trains in the image?,vu,difficult,subjective,2.0,2.0,2.0
+116,yanlin_math_1.jpg,what is the next number,math,easy,subjective,5.0,2.0,2.0
+117,yanlin_math_2.png,what is the answer,math,medium,subjective,2.0,2.0,2.0
+118,yanlin_math_3.jpg,what is the answer,math,easy,subjective,5.0,5.0,5.0
+119,yanlin_math_4.jpg,what is the answer,math,easy,subjective,5.0,5.0,5.0
+120,yanlin_math_5.jpg,what is the answer,math,medium,subjective,1.0,2.0,1.0
+121,xzx_math_1.png,Answer the math problem in the image.,math,medium,subjective,5.0,5.0,1.0
+122,xzx_math_2.jpg,Answer the math problem in the image.,math,easy,subjective,1.0,2.0,5.0
+123,xzx_math_3.png,Is the equation in the image correct?,math,easy,subjective,1.0,5.0,4.0
+124,xzx_math_4.png,Answer the math problem in the image.,math,difficult,subjective,1.0,1.0,1.0
+125,xzx_math_5.png,What's the total area of the regions marked in yellow?,math,difficult,subjective,1.0,1.0,1.0
+126,pc_math_1.png,Can you figure out what number should be fill into this 2 boxes?,math,easy,subjective,4.0,2.0,1.0
+127,pc_math_2.png,Can you figure out what number should be fill into this 2 brankets?,math,medium,subjective,2.0,5.0,2.0
+128,pc_math_3.png,Can you figure out what number should be fill into this 2 boxes?,math,medium,subjective,1.0,4.0,4.0
+129,pc_math_4.png,"The area of ​​each small square is 1cm^2, so what is the area of ​​triangle ABC?",math,medium,subjective,2.0,2.0,1.0
+130,pc_math_5.png,"The area of ​​each small square is 1cm^2,what is the are of this figure 3",math,difficult,subjective,2.0,2.0,2.0
+131,pc_math_6.png,Fill in the numbers in the circles so that the sum of the three numbers on each side of the triangle is 9.,math,medium,subjective,2.0,2.0,2.0
+132,pc_math_7.png,Solve this equation,math,easy,subjective,2.0,2.0,2.0
+133,pc_math_8.png,Solve this question,math,medium,subjective,5.0,5.0,1.0
+134,pc_math_9.png,Solve the 2 question in the figure,math,medium,subjective,1.0,2.0,1.0
+135,pc_math_10.png,"These are some easy math question, please solve it one by one",math,easy,subjective,2.0,2.0,2.0
+136,pc_math_11.png,Choose the correct answer,math,easy,subjective,2.0,2.0,2.0
+137,pc_math_12.png,Solve the question in the figure,math,difficult,subjective,2.0,2.0,2.0
+138,pc_math_13.png,"Choose the correct answer, and explain the reason",math,medium,subjective,2.0,5.0,2.0
+139,pc_math_14.png,"Choose the correct answer, and explain the reason",math,difficult,subjective,1.0,1.0,2.0
+140,pc_math_15.png,"Choose the correct answer, and explain the reason",math,difficult,subjective,1.0,1.0,1.0
+141,pc_math_16.png,"Choose the correct answer, and explain the reason",math,difficult,subjective,1.0,1.0,1.0
+142,pc_math_17.png,What is the area of ​​the shaded portion?,math,difficult,subjective,1.0,2.0,2.0
+143,pc_math_18.png,What is the value of x?,math,medium,subjective,1.0,1.0,2.0
+144,pc_math_19.png,Solve the question in the figure,math,medium,subjective,1.0,2.0,1.0
+145,pc_math_20.png,Choose the correct answer,math,medium,subjective,1.0,2.0,1.0
+146,pc_math_21.png,Choose the correct answer,math,medium,subjective,1.0,1.0,1.0

@@ -113,6 +113,7 @@ if st.button("Save Rating and Note"):
     if st.session_state.index >= len(data):
         st.write("### Evaluation completed!")
     else:
+        pass
         #st.experimental_rerun()
 
 # 添加导航按钮和输入框

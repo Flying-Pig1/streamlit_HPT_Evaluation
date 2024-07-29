@@ -113,7 +113,7 @@ if st.button("Save Rating and Note"):
     if st.session_state.index >= len(data):
         st.write("### Evaluation completed!")
     else:
-        st.experimental_rerun()
+        #st.experimental_rerun()
 
 # 添加导航按钮和输入框
 nav_col1, nav_col2, nav_col3 = st.columns([1, 1, 2])
@@ -121,16 +121,16 @@ with nav_col1:
     if st.button("Previous Data"):
         if st.session_state.index > 0:
             st.session_state.index -= 1
-            st.experimental_rerun()
+            #st.experimental_rerun()
 
 with nav_col2:
     if st.button("Next Data"):
         if st.session_state.index < len(data) - 1:
             st.session_state.index += 1
-            st.experimental_rerun()
+            #st.experimental_rerun()
 
 with nav_col3:
     jump_to_index = st.number_input("Go to record number", min_value=1, max_value=len(data), value=index + 1)
     if st.button("Go"):
         st.session_state.index = jump_to_index - 1
-        st.experimental_rerun()
+        #st.experimental_rerun()
